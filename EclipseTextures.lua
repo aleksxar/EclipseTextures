@@ -2,7 +2,7 @@
 --- MOD_NAME: EclipseTextures
 --- MOD_ID: eclipse
 --- MOD_AUTHOR: [aleksxar]
---- MOD_DESCRIPTION: Aims to give the game's textures a dark mode makeover
+--- MOD_DESCRIPTION: Aims to give most of the game's textures a dark mode makeover, without many changes to the vanilla look.
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
