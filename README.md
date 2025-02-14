@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>EclipseTextures</strong> aims to give most of the game's textures a dark mode makeover, without many changes to the vanilla look.
+  <strong>EclipseTextures</strong> aims to give most of Balatro's textures a dark mode makeover, without many changes to the vanilla look.
 </p>
 
 
